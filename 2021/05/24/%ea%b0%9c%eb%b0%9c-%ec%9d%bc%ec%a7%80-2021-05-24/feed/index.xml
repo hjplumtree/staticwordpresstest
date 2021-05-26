@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	개발 일지 2021-05-24에 댓글	</title>
+	<atom:link href="http://idcode4.mycafe24.com/abc/abc/2021/05/24/%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%80-2021-05-24/feed/" rel="self" type="application/rss+xml" />
+	<link>http://idcode4.mycafe24.com/abc/abc/2021/05/24/%ea%b0%9c%eb%b0%9c-%ec%9d%bc%ec%a7%80-2021-05-24/</link>
+	<description>난 오른쪽</description>
+	<lastBuildDate>Mon, 24 May 2021 01:10:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+</channel>
+</rss>
